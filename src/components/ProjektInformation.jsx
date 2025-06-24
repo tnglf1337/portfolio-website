@@ -81,10 +81,7 @@ function ProjektInformation() {
                     <h3>HelpMePick<sup className="beta">BETA</sup> (2025)</h3>
                     <div className="screen-description-container">
                         <div className="screen pd-10">
-                            <img
-                                className="img"
-                                alt="Kein Screenshot vorhanden"
-                            />
+                            <img className="no-img" alt="<Kein Screenshot verfügbar>"></img>
                         </div>
                         <div className="project-description-container pd-10">
                             <h4><strong>Beschreibung</strong></h4>

@@ -88,7 +88,7 @@ function TechInformation() {
                                 <td>React 19</td>
                                 <td>
                                     <div class="star-wrapper">
-                                        <StarRatings rating={1.5} starRatedColor="#fbc02d" numberOfStars={5} starDimension="24px" starSpacing="3px"/>
+                                        <StarRatings rating={2} starRatedColor="#fbc02d" numberOfStars={5} starDimension="24px" starSpacing="3px"/>
                                     </div>
                                 </td>
                             </tr>
