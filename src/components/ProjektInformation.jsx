@@ -6,7 +6,7 @@ function ProjektInformation() {
                     <h3>Studyhuppy &#10024; (2025)</h3>
                     <div className="screen-description-container">
                         <div className="screen pd-10">
-                            <img className="img" src="../../public/studyhuppy1.png"
+                            <img className="img" src="/portfolio-website/studyhuppy1.png"
                                  alt="Screenshot des Studyhuppy-Projekts"></img>
                         </div>
                         <div className="project-description-container pd-10">
@@ -57,7 +57,9 @@ function ProjektInformation() {
                 </section>
 
                 <section className="this-project-container project-shadow pd-10">
-                    <h3>Tööötris<span className="beta">BETA</span> (2025)</h3>
+                    <div>
+                        <h3>Tööötris<sup className="beta">BETA</sup> (2025)</h3>
+                    </div>
                     <div className="screen-description-container">
                         <div className="screen pd-10">
                             <img className="img"
@@ -74,7 +76,7 @@ function ProjektInformation() {
                 </section>
 
                 <section className="this-project-container project-shadow pd-10">
-                    <h3>HelpMePick<span className="beta">BETA</span> (2025)</h3>
+                    <h3>HelpMePick<sup className="beta">BETA</sup> (2025)</h3>
                     <div className="screen-description-container">
                         <div className="screen pd-10">
                             <img
@@ -108,7 +110,7 @@ function ProjektInformation() {
                     <h3>ExamByte (2024)</h3>
                     <div className="screen-description-container">
                         <div className="screen pd-10">
-                            <img className="img" src="../../public/exambyte1.png"
+                            <img className="img" src="/portfolio-website/exambyte1.png"
                                  alt="Screenshot des ExamByte-Projekts"></img>
                         </div>
                         <div className="project-description-container pd-10">
@@ -128,7 +130,7 @@ function ProjektInformation() {
                     <h3>WoWDungeonTracker (2024)</h3>
                     <div className="screen-description-container">
                         <div className="screen pd-10">
-                            <img className="img" src="../../public/wowdt1.png"
+                            <img className="img" src="/portfolio-website/wowdt1.png"
                                  alt="WoWDungeonTracker project screenshot"></img>
                         </div>
                         <div className="project-description-container pd-10">
@@ -166,7 +168,7 @@ function ProjektInformation() {
                     <h3>Mathtrainer (2023)</h3>
                     <div className="screen-description-container">
                         <div className="screen pd-10">
-                            <img className="img" src="../../public/mathtrainer1.png"
+                            <img className="img" src="/portfolio-website/mathtrainer1.png"
                                  alt="Screenshot des Mathtrainer-Projekts"></img>
                         </div>
                         <div className="project-description-container pd-10">
