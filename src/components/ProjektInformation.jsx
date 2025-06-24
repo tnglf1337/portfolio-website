@@ -63,6 +63,7 @@ function ProjektInformation() {
                     <div className="screen-description-container">
                         <div className="screen pd-10">
                             <img className="img"
+                                 src="/portfolio-website/tööötris.png"
                                  alt="Kein Screenshot vorhanden"></img>
                         </div>
                         <div className="project-description-container pd-10">
@@ -73,6 +74,7 @@ function ProjektInformation() {
                     </div>
                     <p><strong>Funktionalität</strong></p>
                     <p>Es ist grundsätzlich Tetris, nur ohne großartig Visual Effects.</p>
+                    <p>Highscores sollen gespeichert weden, wenn User registriert ist.</p>
                 </section>
 
                 <section className="this-project-container project-shadow pd-10">
