@@ -7,7 +7,7 @@ function Documents() {
                 Aktuelle Leistungsübersicht Studium (download 274KB)
             </a>
             <a href="../../public/downloads/Timo Neske - Abitur.pdf" target="_blank" rel="noopener noreferrer">
-                Abiturzeugniss (download 16KB)
+                Abiturzeugnis (download 16KB)
             </a>
         </div>
         </>

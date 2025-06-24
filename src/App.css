@@ -170,6 +170,12 @@ address {
   cursor: pointer;
 }
 
+.beta {
+  color: rebeccapurple;
+  font-weight: 800;
+  font-size: 14px;
+}
+
 @media (max-width: 775px) {
   .screen-description-container {
     display: flex;
@@ -188,7 +194,6 @@ address {
   .no-img {
     height: 40px;
   }
-
 }
 
 @media (max-width: 600px) {
