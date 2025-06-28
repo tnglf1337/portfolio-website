@@ -1,4 +1,5 @@
 import StarRatings from 'react-star-ratings';
+import {LeetCodeStats} from "./LeetCodeStats.jsx";
 
 function TechInformation() {
     return (
@@ -136,7 +137,7 @@ function TechInformation() {
                 </div>
             </div>
         </div>
-        
+        <LeetCodeStats />
         </>
     )
 }
