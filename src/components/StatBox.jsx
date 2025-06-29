@@ -7,6 +7,8 @@ export function StatBox({ titel, current, total}) {
             return 'medium'
         } else if (titel === 'Hart') {
             return 'hard'
+        } else {
+            return 'default'
         }
     }
 

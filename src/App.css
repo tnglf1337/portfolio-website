@@ -179,7 +179,7 @@ address {
 
 #stat-list {
   width: 400px;
-  background-color: #e8e8e8;
+  background-color: #c9e0f8;
   list-style-type: none;
   display: flex;
   flex-direction: row;
@@ -188,9 +188,13 @@ address {
   gap: 5px;
   padding: 10px;
   border-radius: 10px;
-  border-color: lightgrey;
+  border-color: #4994ec;
   border-style: solid;
   border-width: 1px;
+}
+
+#stat-list a {
+  height: 51.75px;
 }
 
 .lc-stat-box {
@@ -200,9 +204,9 @@ address {
   align-items: center;
   width: 80px;
   height: 50px;
-  background-color: #f4f3f3;
+  background-color: #e8f0f8;
   border-radius: 10px;
-  border-color: lightgrey;
+  border-color: #7fb3ef;
   border-style: solid;
   border-width: 1px;
 }
@@ -214,14 +218,28 @@ address {
 
 .ez {
   color: green;
+  font-weight: bold;
 }
 
 .medium {
   color: orange;
+  font-weight: bold;
 }
 
 .hard {
   color: red;
+  font-weight: bold;
+}
+
+.default {
+  font-weight: bold;
+}
+
+#cprog-stats {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+  flex-wrap: wrap;
 }
 
 @media (max-width: 775px) {
@@ -274,6 +292,20 @@ address {
 
   .project-description-container {
     padding: 0;
+  }
+
+  #stat-list {
+    width: 350px;
+  }
+
+  .lc-stat-box {
+    width: 70px;
+    height: 50px;
+  }
+
+  .lc-stat-box p {
+    margin: 0;
+    font-size: 11px;
   }
 
 
