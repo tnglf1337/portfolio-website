@@ -107,6 +107,40 @@ function TechInformation() {
                                     <StarRatings rating={0.8} starRatedColor="#fbc02d" numberOfStars={5} starDimension="24px" starSpacing="3px"/>
                                 </td>
                             </tr>
+                            <tr>
+                                <td>Testing</td>
+                                <td></td>
+                            </tr>
+                            <tr>
+                                <td>JUnit 5</td>
+                                <td className="star-wrapper">
+                                    <StarRatings rating={3.0} starRatedColor="#fbc02d" numberOfStars={5} starDimension="24px" starSpacing="3px"/>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td>Mockito</td>
+                                <td className="star-wrapper">
+                                    <StarRatings rating={2.5} starRatedColor="#fbc02d" numberOfStars={5} starDimension="24px" starSpacing="3px"/>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td>ArchUnit</td>
+                                <td className="star-wrapper">
+                                    <StarRatings rating={2.5} starRatedColor="#fbc02d" numberOfStars={5} starDimension="24px" starSpacing="3px"/>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td>Selenium</td>
+                                <td className="star-wrapper">
+                                    <StarRatings rating={2.0} starRatedColor="#fbc02d" numberOfStars={5} starDimension="24px" starSpacing="3px"/>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td>Cucumber</td>
+                                <td className="star-wrapper">
+                                    <StarRatings rating={2.0} starRatedColor="#fbc02d" numberOfStars={5} starDimension="24px" starSpacing="3px"/>
+                                </td>
+                            </tr>
                         </tbody>
                     </table>
                 </div>
