@@ -108,7 +108,7 @@ function TechInformation() {
                                 </td>
                             </tr>
                             <tr>
-                                <td>Testing</td>
+                                <td><h3>Testing</h3></td>
                                 <td></td>
                             </tr>
                             <tr>

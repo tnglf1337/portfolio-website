@@ -58,6 +58,55 @@ function ProjektInformation() {
 
                 <section className="this-project-container project-shadow pd-10">
                     <div>
+                        <h3>event-scs (2025)</h3>
+                    </div>
+                    <div className="screen-description-container">
+                        <div className="screen pd-10">
+                            <img className="no-img" alt="<Kein Screenshot verfügbar>"></img>
+                        </div>
+                        <div className="project-description-container pd-10">
+                            <h4><strong>Beschreibung</strong></h4>
+                            <p>Ein kleiner vertikaler Prototyp für den Prozess eines Ticketverkauf und der späteren Ticketeinlösung für eine Veranstaltung.</p>
+                        </div>
+                    </div>
+                    <p><strong>Funktionalität</strong></p>
+                    <p>Kunden können Tickets kaufen und bekommen einen QR-Code per E-Mail.</p>
+                    <p>Den QR-Code müssen Kunden bei dem jeweiligen Event zum Scannen vorhalten.</p>
+                    <p>Nebenbei gibt es einen Service, der die aktuellen Besucher während der Veranstaltung beobachtet.</p>
+                    <div>
+                        <a className="github-link" href="https://github.com/tnglf1337/event-scs" target="_blank">
+                            Check out on GitHub
+                        </a>
+                    </div>
+                </section>
+
+                <section className="this-project-container project-shadow pd-10">
+                    <div>
+                        <h3>Quickdomain (2025)</h3>
+                    </div>
+                    <div className="screen-description-container">
+                        <div className="screen pd-10">
+                            <img className="no-img" alt="<Kein Screenshot verfügbar>"></img>
+                        </div>
+                        <div className="project-description-container pd-10">
+                            <h4><strong>Beschreibung</strong></h4>
+                            <p>Mit quickdomain kann man schnell Fake-Daten für Domain-Objekte im Programmcode
+                                generieren.</p>
+                        </div>
+                    </div>
+                    <p><strong>Funktionalität</strong></p>
+                    <p>Von einer Domain-Entity (z.B. <code>User.class</code>) kann man automatisch schnell eine Liste
+                        von Objekten erstellen, ohne mühselig alles manuell einzutippen.</p>
+                    <p>Unterstützt die Generierung durch KI oder Csv-Dateien.</p>
+                    <div>
+                        <a className="github-link" href="https://github.com/tnglf1337/quickdomain" target="_blank">
+                            Check out on GitHub
+                        </a>
+                    </div>
+                </section>
+
+                <section className="this-project-container project-shadow pd-10">
+                    <div>
                         <h3>Tööötris<sup className="beta">BETA</sup> (2025)</h3>
                     </div>
                     <div className="screen-description-container">
@@ -75,8 +124,12 @@ function ProjektInformation() {
                     <p><strong>Funktionalität</strong></p>
                     <p>Es ist grundsätzlich Tetris, nur ohne großartig Visual Effects.</p>
                     <p>Highscores sollen gespeichert weden, wenn User registriert ist.</p>
+                    <a className="github-link" href="https://github.com/tnglf1337/t-tris" target="_blank">
+                        Check out on GitHub
+                    </a>
                 </section>
 
+                {/*
                 <section className="this-project-container project-shadow pd-10">
                     <h3>HelpMePick<sup className="beta">BETA</sup> (2025)</h3>
                     <div className="screen-description-container">
@@ -104,6 +157,7 @@ function ProjektInformation() {
                         Nutzer können die Prioritäten ihrer Spiele jederzeit anpassen und so neue Vorschläge beeinflussen.
                     </p>
                 </section>
+                */}
 
                 <section className="this-project-container project-shadow pd-10">
                     <h3>ExamByte (2024)</h3>
@@ -150,7 +204,7 @@ function ProjektInformation() {
                         </div>
                         <div className="project-description-container pd-10">
                             <h4><strong>Beschreibung</strong></h4>
-                            <p>Damals spielte ich World of Warcraft gespielt und ich habe mich immer gefragt, wie meine
+                            <p>Damals spielte ich World of Warcraft und ich habe mich immer gefragt, wie meine
                                 Dungeon-Statistiken aussehen (man kann "Dungeons" spielen, bei denen man bestimmte Items
                                 zufällig erhält).</p>
                             <p>Also habe ich diese App erstellt, um schnell ein Ereignis zu speichern, wenn ich einen
