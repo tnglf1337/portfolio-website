@@ -58,6 +58,30 @@ function ProjektInformation() {
 
                 <section className="this-project-container project-shadow pd-10">
                     <div>
+                        <h3>dbd-ml &#10024; (2025)</h3>
+                    </div>
+                    <div className="screen-description-container">
+                        <div className="screen pd-10">
+                            <img className="img" src="/portfolio-website/dbdml1.png"
+                                 alt="Screenshot des Studyhuppy-Projekts"></img>
+                        </div>
+                        <div className="project-description-container pd-10">
+                            <h4><strong>Beschreibung</strong></h4>
+                            <p>Ein Machine Learning-Projekt, indem ich ein CNN trainiere um aus Bildern Symbole zu erkennen, weil ich daraus eine Datenanalyse automatisieren wollte.</p>
+                        </div>
+                    </div>
+                    <p><strong>Funktionalität</strong></p>
+                    <p>Aus einem bestimmten Screenshot-Format werden wichtige Bereiche, die Symbole und Text beinhalten, extrahiert und das Model klassifiziert sie.</p>
+                    <p>Die Klassifikationen werden in einem weiteren Datenset für spätere Analysen gespeichert.</p>
+                    <div>
+                        <a className="github-link" href="https://github.com/tnglf1337/dbd-ml" target="_blank">
+                            Check out on GitHub
+                        </a>
+                    </div>
+                </section>
+
+                <section className="this-project-container project-shadow pd-10">
+                    <div>
                         <h3>event-scs (2025)</h3>
                     </div>
                     <div className="screen-description-container">
