@@ -24,19 +24,19 @@ function TechInformation() {
                             <tr>
                                 <td>Python</td>
                                 <td className="star-wrapper">
-                                    <StarRatings rating={2.5} starRatedColor="#fbc02d" numberOfStars={5} starDimension="24px" starSpacing="3px"/>
+                                    <StarRatings rating={3} starRatedColor="#fbc02d" numberOfStars={5} starDimension="24px" starSpacing="3px"/>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td>C</td>
+                                <td className="star-wrapper">
+                                    <StarRatings rating={3} starRatedColor="#fbc02d" numberOfStars={5} starDimension="24px" starSpacing="3px"/>
                                 </td>
                             </tr>
                             <tr>
                                 <td>SQL</td>
                                 <td className="star-wrapper">
                                     <StarRatings rating={2.5} starRatedColor="#fbc02d" numberOfStars={5} starDimension="24px" starSpacing="3px"/>
-                                </td>
-                            </tr>
-                            <tr>
-                                <td>C</td>
-                                <td className="star-wrapper">
-                                    <StarRatings rating={2} starRatedColor="#fbc02d" numberOfStars={5} starDimension="24px" starSpacing="3px"/>
                                 </td>
                             </tr>
                             <tr>
@@ -92,7 +92,7 @@ function TechInformation() {
                             <tr>
                                 <td>git</td>
                                 <td className="star-wrapper">
-                                    <StarRatings rating={2.5} starRatedColor="#fbc02d" numberOfStars={5} starDimension="24px" starSpacing="3px"/>
+                                    <StarRatings rating={3.5} starRatedColor="#fbc02d" numberOfStars={5} starDimension="24px" starSpacing="3px"/>
                                 </td>
                             </tr>
                             <tr>
