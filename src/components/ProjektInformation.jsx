@@ -26,7 +26,8 @@ function ProjektInformation() {
                     <ul>
                         <li>
                             Modul-Service: Nutzer können individuelle Module ihres Studiums anlegen und die dafür
-                            aufgewendete Lernzeit erfassen. Es gibt Statistiken zum Lernverhalten.
+                            aufgewendete Lernzeit erfassen. Es gibt Statistiken zum Lernverhalten. Nutzer können in
+                            Lern-Sessions Blöcke von Zeit erfassen, die sie für ein Modul gelernt haben.
                         </li>
                         <li>
                             Kartei-Service: Nutzer können Karteikartensätze erstellen und mithilfe eines
