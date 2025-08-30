@@ -51,6 +51,12 @@ function TechInformation() {
                                     <StarRatings rating={1.5} starRatedColor="#fbc02d" numberOfStars={5} starDimension="24px" starSpacing="3px"/>
                                 </td>
                             </tr>
+                            <tr>
+                                <td>Swift</td>
+                                <td className="star-wrapper">
+                                    <StarRatings rating={1.0} starRatedColor="#fbc02d" numberOfStars={5} starDimension="24px" starSpacing="3px"/>
+                                </td>
+                            </tr>
                         </tbody>
                     </table>
                 </div>
