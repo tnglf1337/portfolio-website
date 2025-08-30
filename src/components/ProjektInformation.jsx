@@ -30,6 +30,11 @@ function ProjektInformation() {
                             Lern-Sessions Blöcke von Zeit erfassen, die sie für ein Modul gelernt haben.
                         </li>
                         <li>
+                            Plan-Service: Nutzer können von Ihren angelegten Modulen einen wöchentlichen Lernplan erstellen.
+                            Dieser umfasst einzelne Lern-Session für einen Tag, welche aus Timern bestehen und so dem Lernenden
+                            beim organsierten und disziplinierten Lernen unterstützen.
+                        </li>
+                        <li>
                             Kartei-Service: Nutzer können Karteikartensätze erstellen und mithilfe eines
                             Spaced-Repetition-Algorithmus lernen. Die geschätzte benötigte Lernzeit wird auf Basis
                             vergangener Leistungen berechnet.
