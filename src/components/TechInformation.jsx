@@ -8,6 +8,15 @@ function TechInformation() {
 
         <div id="tech-information-container">
             <div>
+                <p>Neben meinem Studium habe ich folgende Fachliteratur gelesen, um weitere Einblicke außerhalb des Curriculums zu gewinnen:</p>
+                <ul>
+                    <li><em>The Cloud Computing Book – The Future of Computing Explained</em> (Douglas Comer, 2021)</li>
+                    <li><em>Clean Architecture – Das Praxis-Handbuch für gutes Softwaredesign</em> (Robert C. Martin, 2018)</li>
+                    <li><em>UX Fundamentals for Non-UX Professionals: User Experience Principles for Managers, Writers, Designers, and Developers</em> (Edward Stull, 2018)</li>
+                    <li><em>Deep Learning mit Python und Keras – Das Praxis-Handbuch vom Entwickler der Keras-Bibliothek</em> (Francois Chollet, 2018)</li>
+                </ul>
+            </div>
+            <div>
                 <p>Mit diesen Sprachen und Frameworks habe ich bisher gearbeitet:</p>
             </div>
             <div id="tech-tables">
