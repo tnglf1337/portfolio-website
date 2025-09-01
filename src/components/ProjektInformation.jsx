@@ -1,10 +1,16 @@
+import '../glow.css'
+
 function ProjektInformation() {
     return (
         <>
             <div className="project-container">
-                <section className="this-project-container project-shadow pd-10">
+                <section className="this-project-container project-shadow pd-10 glow-effect">
+                    <svg className="glow-container">
+                        <rect pathLength="100"  stroke-linecap="round" className="glow-blur"></rect>
+                        <rect pathLength="100" stroke-linecap="round" className="glow-line"></rect>
+                    </svg>
                     <h3>Studyhuppy &#10024; (2025)</h3>
-                    <div className="screen-description-container">
+                    <div className="screen-description-container ">
                         <div className="screen pd-10">
                             <img className="img" src="/portfolio-website/studyhuppy1.png"
                                  alt="Screenshot des Studyhuppy-Projekts"></img>
